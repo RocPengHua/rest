@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rest.iml" filepath="$PROJECT_DIR$/.idea/rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-common/rest-common.iml" filepath="$PROJECT_DIR$/rest-common/rest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-dubboProvider/rest-dubboProvider.iml" filepath="$PROJECT_DIR$/rest-dubboProvider/rest-dubboProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-dubbox/rest-dubbox.iml" filepath="$PROJECT_DIR$/rest-dubbox/rest-dubbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-manage/rest-manage.iml" filepath="$PROJECT_DIR$/rest-manage/rest-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-parent/rest-parent.iml" filepath="$PROJECT_DIR$/rest-parent/rest-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-sso/rest-sso.iml" filepath="$PROJECT_DIR$/rest-sso/rest-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-web/rest-web.iml" filepath="$PROJECT_DIR$/rest-web/rest-web.iml" />
+    </modules>
+  </component>
+</project>
